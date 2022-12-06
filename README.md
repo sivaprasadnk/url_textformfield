@@ -8,7 +8,7 @@ Add this to your package's `pubspec.yaml` file
 ```yaml
 
 dependencies:
-  url_textformfield: ^0.0.1
+  url_textformfield: ^0.0.2
 ```
 
 ## Usage
