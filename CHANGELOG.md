@@ -1,6 +1,11 @@
+## 0.0.3
+
+* Adding screenshot.
+
+
 ## 0.0.2
 
-* Corrceting documentation.
+* Correcting documentation.
 
 
 ## 0.0.1

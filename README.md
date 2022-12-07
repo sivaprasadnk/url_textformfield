@@ -8,7 +8,7 @@ Add this to your package's `pubspec.yaml` file
 ```yaml
 
 dependencies:
-  url_textformfield: ^0.0.2
+  url_textformfield: ^0.0.3
 ```
 
 ## Usage
@@ -38,5 +38,10 @@ Then , use the widget as below,
       trailingText: ".com",
     );
 ```
+
+## Example
+
+![example](https://github.com/sivaprasadnk/url_textformfield/blob/master/screenshot/screenshot.jpeg)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
