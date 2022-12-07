@@ -41,7 +41,7 @@ Then , use the widget as below,
 
 ## Example
 
-![example](https://github.com/sivaprasadnk/url_textformfield/blob/master/screenshot/screenshot.jpeg)
+![example](https://github.com/sivaprasadnk/url_textformfield/blob/master/screenshot/example.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
