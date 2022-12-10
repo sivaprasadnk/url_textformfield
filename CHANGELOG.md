@@ -1,3 +1,7 @@
+## 1.0.0
+
+* Updating screenshot.
+
 ## 0.0.3
 
 * Adding screenshot.
