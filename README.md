@@ -40,8 +40,8 @@ Then , use the widget as below,
 ```
 
 ## Example
+![screenshot](https://user-images.githubusercontent.com/75713903/206829462-a1b307c9-3970-4c26-84a0-b79aee4d0737.jpeg)
 
-![example](https://github.com/sivaprasadnk/url_textformfield/blob/master/screenshot/example.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
